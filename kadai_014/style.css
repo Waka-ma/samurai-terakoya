@@ -1,9 +1,17 @@
+html {
+  font-size: 20px;
+}
+
 body {
   font-family: "Arial", "Meiryo", sans-serif;
   font-size: 20px;
   text-align: center;
 }
 
+h1{
+  font: sans-serif;
+  font-size: 2em;
+}
 
 #first-heading {
   font-size: 40px;
